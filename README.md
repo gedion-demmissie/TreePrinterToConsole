@@ -7,7 +7,8 @@ Example:-
             | |a| | 
             |b| |c|
             
-        2. Given input as array { 'd','b', 'e','a','f', 'c' ,'g'} the TreePrinterToConsole would print to the console as shown below:
+        2. Given input as array { 'd','b', 'e','a','f', 'c' ,'g'} the TreePrinterToConsole would print to the
+           console as shown below:
               
         | | | |a| | | |
         | |b| | | |c| |
